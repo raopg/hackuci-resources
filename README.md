@@ -105,7 +105,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 ## 1.1 Python
 
-> [**Browse this link for detailed information on Python**](Python.md)
+> [**Browse this link for detailed information on Python**](Python/Python.md)
 
 -  **Tutorials**
 
