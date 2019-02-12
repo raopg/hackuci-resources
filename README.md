@@ -21,9 +21,8 @@
 
 2.  [UX/UI Resources](#ui-and-ux-design-resources)
 3.  [Student Benefits and Packs](#3-student-benefits-and-packs)
-4.  [Open Source Programs](#4-open-source-programs)
-5.  [Master API directory](https://www.programmableweb.com/category/all/api)
-6.  [Credits](#credits)
+4.  [Master API directory](https://www.programmableweb.com/category/all/api)
+5.  [Credits](#credits)
 
 # Software Resources
 Here is a list of software that is recommended to be downloaded before the hackathon.
@@ -186,7 +185,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
  >  [Checkout the Full Resources on ANDROID](Android/Android.md) 
 
 -  [Free courses & Nanodegree | Udacity](https://udacity.com)
--  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) :heavy_dollar_sign:
+-  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) 
 -  [Path to Associate Android Developer](https://github.com/Amejia481/Associate-Android-Developer-Certification)
 -  [Google Android Codelabs](https://codelabs.developers.google.com/)
 -  [Flutter Widget Tour](https://flutter.io/widgets-intro/)
@@ -379,9 +378,9 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 ## 1.7 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
  - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
- - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) :heavy_dollar_sign:
+ - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) 
  - [Building Alexa Skills from Scratch | YouTube](https://www.youtube.com/watch?list=PL2KJmkHeYQTNwlZqLh_ptZhSNZf93e8Sp&v=1cx_I0kARnU)
- - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) :heavy_dollar_sign: (Free 10-day trial)
+ - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) 
  - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
 
  ## 1.8 Git and Github
@@ -435,7 +434,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 - [Documentation](https://docs.docker.com/)
 - [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) 
-- [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
+- [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) 
 
 # 2. UI and UX Design Resources
 
@@ -566,26 +565,9 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 14. [Canvas File Sync](https://github.com/drew-royster/canvasFileSync)
 
 
-# 4. Open Source Programs
-
-> **For more Detailed Information about the GSOC Organization** - [Click Here](https://github.com/dipakkr/A-to-Z-Resources-for-Students/blob/master/GSOC.md)
-
- |Id |Name | Organization| Stipend/Incentives |Timeline | Deadline |
-|-|--|---- |---|---| ------ |
-|1| [Google Summer of Code](https://summerofcode.withgoogle.com/)| Google| YES| - |- |
-|2| [Rails Girls Summer Of Code](https://railsgirlssummerofcode.org/)| Global | Yes|- | - |
-|4| [GNOME internships](https://wiki.gnome.org/Internships) | GNOME | YES | - | - |
-|5| [Radare Summer of Code](https://rada.re/rsoc) | - | -  | -  |
-|6| [DataONE Summer Internship Program](https://www.dataone.org/internships) | DataONE | -  | -  | - |
-|7| [BOSS](http://pennapps.com/)| Coding Blocks, INDIA| YES |- | - |
-|8| [GirlScript Summer of Code](https://gssoc.tech/) | - | Prizes & Goodies | - | - |
-|9| [Season of KDE](https://season.kde.org) | KDE | Prizes | - | - |
-|10| [The X.Org Endless Vacation of Code](https://season.kde.org) | X.Org | Yes | -| - |
-| 11 | [Free Software Foundation internships](https://www.fsf.org/volunteer/internships) | Free Software Foundation | NO | - | - |
-|12| [Outreachy](https://www.outreachy.org/) |  | Yes | -| - |
 
 
-## Credits
+# Credits
 
 [Master resources](https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 Highly recommended checking the master Github repo, from which this repository was forked. The master resources are more general, whereas this one has been modified specifically for hackathons.
