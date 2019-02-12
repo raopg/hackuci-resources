@@ -574,6 +574,7 @@ Master resources - https://github.com/dipakkr/A-to-Z-Resources-for-Students)
 Highly recommended checking the master Github repo, from which this repository was forked. The master resources are more general, whereas this one has been modified specifically for hackathons.
 
 [API reference](https://www.programmableweb.com/category/all/apis)
+
 [UI/UX resource master](https://gist.github.com/teybannerman/9c234424eb1d940a8505)
 
 
