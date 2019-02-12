@@ -112,7 +112,6 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 	- [Learn Python | CodeAcademy](https://www.codecademy.com/learn/learn-python)
 	- [Progate Python Classes](https://progate.com/languages/python) 
 	- [Video Tutorial for absolute beginners | YouTube](http://bit.ly/2NkrsKh) 
-	- [Intro to Python | Udacity](https://in.udacity.com/course/introduction-to-python--ud1110-india) :free:
 	- [Python For Everybody](https://www.coursera.org/specializations/python)
 	- [Write Better Python Functions](https://jeffknupp.com/)
 	- [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
