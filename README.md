@@ -8,17 +8,16 @@
      - [Deep Learning](#13-deep-learning)
      - [Android Development](#14-android-development)
      - [Backend Development ](#15-backend-development)
-     - [Frontend Web Development](#16-frontend-web-development)
-     - [Data Structures](#17-data-structures) 
-     - [Alexa Tutorials](#18-alexa-tutorials)
-     - [Git and Github](#19-git-and-github)
-     - [R Language](#110-r-language)
-     - [Haskell](#111-haskell)
-     - [MongoDB](#112-mongodb)
-     - [Prolog](#113-prolog)
-     - [C# Language](#114-c-language)
-     - [DevDocs](#115-devdocs)
-     - [Docker](#116-docker)
+     - [Frontend Web Development](#16-frontend-web-development) 
+     - [Alexa Tutorials](#17-alexa-tutorials)
+     - [Git and Github](#18-git-and-github)
+     - [R Language](#19-r-language)
+     - [Haskell](#110-haskell)
+     - [MongoDB](#111-mongodb)
+     - [Prolog](#112-prolog)
+     - [C# Language](#113-c-language)
+     - [DevDocs](#114-devdocs)
+     - [Docker](#115-docker)
 
 2.  [UX/UI Resources](#ui-and-ux-design-resources)
 3.  [Student Benefits and Packs](#3-student-benefits-and-packs)
@@ -159,7 +158,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
     - [Data.Gov](https://www.data.gov/)
 
 -  **Book for Machine Learning**
-    - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) - :free:
+    - [Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) 
 
 
 ## 1.3 Deep Learning
@@ -179,7 +178,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
     - [VisualDL](https://github.com/PaddlePaddle/VisualDL)
     - [Caire - Content aware image resize library ](https://github.com/esimov/caire)
     - [Top Deep Learning](https://github.com/mbadry1/Top-Deep-Learning)
-    - [Learn Deep learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) :star:
+    - [Learn Deep learning in 6 weeks](https://github.com/llSourcell/Learn_Deep_Learning_in_6_Weeks) 
 
 
 ## 1.4 Android Development
@@ -212,7 +211,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 -  **Node.JS**
     - [Node JS Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp) 
-    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) :star:
+    - [Node.js Documentation](https://nodejs.org/dist/latest-v8.x/docs/api/) 
     - [Node.js Design Patterns by Mario Casciaro](https://github.com/PacktPublishing/Node.js_Design_Patterns_Second_Edition_Code) - Book Advanced level
 		- [Node.js API Design] (https://www.youtube.com/playlist?list=PLzQWIQOqeUSMzMUEJA0XrOxJbX8WTiCJV)
     - [Node.js handbook by Flavio Copes](https://flaviocopes.com/express-handbook/) 
@@ -333,7 +332,6 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
         - [FreeCodeCamp Articles](https://medium.freecodecamp.org/search?q=react)
         - [Few Projects for every React Dev](https://daveceddia.com/react-practice-projects/)
         - [Famous GitHub Repos](https://medium.mybridge.co/react-js-open-source-for-the-past-year-2018-a7c553902010)
-        - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/) :heavy_dollar_sign: - Worth it
         - [Hello World | React.js Org](https://reactjs.org/docs/hello-world.html)
         - [The Road to React | Book](https://drive.google.com/open?id=1ilClAJQ3FmCB-2cEuVDZtVMbeXumSj3t)
 
@@ -345,7 +343,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
         - [React Redux Tutorial](https://dev.to/valentinogagliardi/react-redux-tutorial-for-beginners-learning-redux-in-2018-13hj)
         - [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
         - [Introduction to the Redux Challenges | freeCodeCamp](https://learn.freecodecamp.org/front-end-libraries/redux)
-        - [Redux | Tyler McGinnis](https://tylermcginnis.com/courses/redux/) :heavy_dollar_sign:
+        
 
     - **Vue.js**
         - [Scrimba](https://scrimba.com/g/glearnvue)
@@ -377,38 +375,8 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 ---
 
-## 1.7 Data Structures
 
-- **Online Platforms**
-    - [CodeChef](https://www.codechef.com/) - CodeChef competitive programming site
-    - [CodeSignal](https://codesignal.com/) - (formerly CodeFights)Fun gaming approach to Coding contests and Interview practices.
-    - [Codeforces](https://codeforces.com/) - Great site for preparing for programming contests
-    - [GeeksforGeeks](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/) - Must do coding questions for product based companies
-    - [Hackerearth](https://www.hackerearth.com/practice/codemonk/) - Code Monk to start with programming - programming fundamentals
-    - [Hackerrank](https://www.hackerrank.com/interview/interview-preparation-kit) - Interview preparation kit
-    - [InterviewBit](https://www.interviewbit.com/courses/programming) -  Best platform to get prepared for Data Structures based interviews
-    - [LeetCode](https://www.leetcode.com) -  Platform to prepare for technical interviews with real interview questions
-    - [Sphere Online Judge](https://www.spoj.com/problems/classical/) - Great head start for learning Data Structures
-    - [UVa Online Judge](https://uva.onlinejudge.org) - The site to submit [Competitive Programming 3](http://www.lulu.com/shop/steven-halim/competitive-programming-3/paperback/product-21059906.html) data structures problems
-    - [Codewars](https://www.codewars.com/) - Interesting ranking system with beautiful UI for competitive programming and interview prep.
-    - [CodinGame](https://www.codingame.com/) - Competitive programming with game like challenges
-    - [CS50 on HarvardX](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x) - One of the best computer science courses available online (:heavy_dollar_sign: for certification)
-    - [Codility](https://app.codility.com/programmers/) - Develop your coding skills with lessons to take part in challenges
-    - [Zen of Programming](https://zen-of-programming.com/) - A frequently updated blog great for beginners and simplified references.
-
-- **Tutorials & Practice**
-    - [Visual Algo](https://visualgo.net/en) - Understanding DS & Algo through animations.
-    - [E-maxx](https://e-maxx.ru/algo/) - Russian version of popular e-maxx, An excellent set of study material for DS & ALgo.
-    [English version of e-maxx.](https://cp-algorithms.com/)  (Translation is almost complete)
-    - [All Good Tutorials on Codeforces](http://codeforces.com/blog/entry/57282) - All of the best tutorials on Codeforces all at one place.
-    - [DS & Algo + Maths + C++](http://codeforces.com/blog/entry/13529) - Another set of good compilation of resources to study.
-    - [Data Structures and Algorithms](https://discuss.codechef.com/questions/48877/data-structures-and-algorithms) - Another set of good compilation of resources to learn and practice. This one is done by Codechef.
-    - [Problem Topics](http://codeforces.com/blog/entry/55274) - Topic-wise list of problems.
-    - [Cracking the Coding Interview](http://www.crackingthecodinginterview.com/)
-    - [Excercism](https://exercism.io/) - Code practice and mentorship.
-    - [Leet Code](https://leetcode.com)
-
-## 1.8 Alexa Tutorials
+## 1.7 Alexa Tutorials
  - [Learn Alexa | Codecademy](https://www.codecademy.com/learn/learn-alexa)
  - [ Fact Skill Tutorial - Build an Alexa Skill in 6 Steps | Amazon](https://developer.amazon.com/alexa-skills-kit/tutorials/fact-skill-1)
  - [Comprehensive Alexa Skill Development course | Udemy](https://www.udemy.com/comprehensive-alexa-skill-development-course/?siteID=Fh5UMknfYAU-DbsLrZFg2AAmpu3BgGbHJQ&LSNPUBID=Fh5UMknfYAU) :heavy_dollar_sign:
@@ -416,7 +384,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
  - [Developing Alexa Skills for Amazon Echo | PluralSight](https://www.pluralsight.com/courses/amazon-echo-developing-alexa-skills) :heavy_dollar_sign: (Free 10-day trial)
  - [Alexa Skills Development | Qwiklabs](https://qwiklabs.com/quests/19)
 
- ## 1.9 Git and Github
+ ## 1.8 Git and Github
  - [Git Tutorials](https://www.atlassian.com/git/tutorials/comparing-workflows)
  - [How to use Git and Github | Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
  - [Version Control with Git | Udacity](https://in.udacity.com/course/version-control-with-git--ud123)
@@ -431,7 +399,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 
-## 1.10 R Language
+## 1.9 R Language
 - [RStudio](https://www.rstudio.com/online-learning/)
 - [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
 - [R-Bloggers](https://www.r-bloggers.com/)
@@ -440,17 +408,17 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 - [Swirl](https://swirlstats.com/students.html)
 - [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
 
-## 1.11 Haskell
+## 1.10 Haskell
  - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
 
-## 1.12 MongoDB
+## 1.11 MongoDB
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB University](https://university.mongodb.com/)
 
-## 1.13 Prolog
+## 1.12 Prolog
 - [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
 
-## 1.14 C# Language
+## 1.13 C# Language
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
@@ -459,14 +427,14 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 - [The "Yellow Book": Introduction to C# Programming by Rob Miles](http://www.csharpcourse.com/)
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
 
-## 1.15 DevDocs
+## 1.14 DevDocs
 
 - [API documentation for most programming languages](https://devdocs.io) - Works offline
 
-## 1.16 Docker
+## 1.15 Docker
 
 - [Documentation](https://docs.docker.com/)
-- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) :star:
+- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) 
 - [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) :heavy_dollar_sign:
 
 # 2. UI and UX Design Resources
