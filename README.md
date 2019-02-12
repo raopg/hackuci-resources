@@ -136,7 +136,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 ## 1.2 Machine Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
