@@ -11,13 +11,9 @@
      - [Frontend Web Development](#16-frontend-web-development) 
      - [Alexa Tutorials](#17-alexa-tutorials)
      - [Git and Github](#18-git-and-github)
-     - [R Language](#19-r-language)
-     - [Haskell](#110-haskell)
-     - [MongoDB](#111-mongodb)
-     - [Prolog](#112-prolog)
-     - [C# Language](#113-c-language)
-     - [DevDocs](#114-devdocs)
-     - [Docker](#115-docker)
+     - [MongoDB](#19-mongodb)
+     - [Prolog](#110-prolog)
+     - [C# Language](#111-c-language)
 
 2.  [UX/UI Resources](#ui-and-ux-design-resources)
 3.  [Student Benefits and Packs](#3-student-benefits-and-packs)
@@ -220,32 +216,6 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
     - [What You Need To Know About Node.js](https://www.packtpub.com/packt/free-ebook/what-you-need-know-about-nodejs) (Email address requested, not required. By Packt)
     - [Express.js - Production Security Best Practices](https://expressjs.com/en/advanced/best-practice-security.html)
 
-- **PHP**
-    - [PHP Manual](http://php.net/manual/en/index.php)
-    - [W3Schools](https://www.w3schools.com/php/)
-    - [Tutorial Point](https://www.tutorialspoint.com/php/)
-    - [PHP with Database tutorial ](https://www.codeproject.com/Articles/759094/Step-by-Step-PHP-Tutorials-for-Beginners-Creating)
-    - [Guide for PHP and SQL connection with HTML form.](https://github.com/shauryauppal/PHP-Database-connection)
-    - [PHP: The Right Way](https://phptherightway.com)
-    - [PHP: The Wrong Way](http://www.phpthewrongway.com/)
-    - [BitDegree-Php](https://bitdegree.org/learn/learn-php)
-    - [PHP Best Practices](https://phpbestpractices.org/)
-    - [PHP Pandas](https://daylerees.com/php-pandas/)
-    - [PHP Internals Book](http://www.phpinternalsbook.com/)
-    - [Let's Build A Forum with Laravel and TDD](https://laracasts.com/series/lets-build-a-forum-with-laravel)
-    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 
-
-- **Ruby**
-    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book)
-    - [Learn Ruby The Hard Way](https://learnrubythehardway.org/book/)
-    - [Learn Ruby | Codecademy](https://www.codecademy.com/learn/learn-ruby) - Familiarity with Ruby before Rails
-    - [Learn Ruby, Dev Concept and More | Upskills with Upcase](https://thoughtbot.com/upcase/practice) - Familiarity with ruby and coding concepts
-    - [SoloLearn: Learn to Code for Free!](https://www.sololearn.com/) 
-    - [Ruby Tapas](https://www.rubytapas.com/) - Short, Focused Screencasts covering Intermediate to Advanced Ruby concepts and techniques, design principles, testing practices, refactoring, etc.
-    - [Why's (Poignant) Guide to Ruby](https://poignant.guide/)
-    - [RailsCasts](http://railscasts.com) - Video tutorials on more intermediate Ruby on Rails topics.
-    - [Ruby on Rails Tutorial](https://www.railstutorial.org/book/frontmatter) - Learn Web Development with Rails
-
 - **MongoDB**
     - [MongoDB Tutorial for Beginners | YouTube](https://www.youtube.com/watch?v=GtD93tVZDX4)
     - [Tutorial for Beginner](https://www.youtube.com/watch?v=GtD93tVZDX4)
@@ -254,8 +224,6 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 	- [MongoDB full tutorial for beginners](https://www.quackit.com/mongodb/tutorial/)
 	- [MongoDB tutorial for intermediate](https://www.guru99.com/mongodb-tutorials.html)
 
-- **Software architecture**
-    - [Microservices by Chris Richardson](https://microservices.io/index.html)
 
 ## 1.6 Frontend Web Development
 
@@ -400,26 +368,14 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
  - [Intoduction to Git for DataScience](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 
 
-## 1.9 R Language
-- [RStudio](https://www.rstudio.com/online-learning/)
-- [Kaggle Kernels](https://www.kaggle.com/kernels?sortBy=hotness&group=everyone&pageSize=20&language=R)
-- [R-Bloggers](https://www.r-bloggers.com/)
-- [Introduction to Data Science by Rafael A. Irizarry](https://rafalab.github.io/dsbook/)
-- [R for Data Science by Garrett Grolemund and Hadley Wickham](https://r4ds.had.co.nz/)
-- [Swirl](https://swirlstats.com/students.html)
-- [Hands-On Programming with R by Garrett Grolemund](https://rstudio-education.github.io/hopr/)
-
-## 1.10 Haskell
- - [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/)
-
-## 1.11 MongoDB
+## 1.9 MongoDB
  - [MongoDB Tutorial](https://www.tutorialspoint.com/mongodb/)
  - [MongoDB University](https://university.mongodb.com/)
 
-## 1.12 Prolog
+## 1.10 Prolog
 - [Michael Spivey - An introduction to logic programming through Prolog](http://spivey.oriel.ox.ac.uk/wiki2/files/logprog/logic.pdf)
 
-## 1.13 C# Language
+## 1.11 C# Language
 - [LearnCS](https://www.learncs.org)
 - [TutorialsPoint](https://www.tutorialspoint.com/csharp/index.htm)
 - [SoloLearn](https://www.sololearn.com/Course/CSharp/)
@@ -428,15 +384,6 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 - [The "Yellow Book": Introduction to C# Programming by Rob Miles](http://www.csharpcourse.com/)
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
 
-## 1.14 DevDocs
-
-- [API documentation for most programming languages](https://devdocs.io) - Works offline
-
-## 1.15 Docker
-
-- [Documentation](https://docs.docker.com/)
-- [Free Course](https://www.youtube.com/watch?v=h0NCZbHjIpY&list=PL9ooVrP1hQOHUKuqGuiWLQoJ-LD25KxI5) 
-- [Docker Course](https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers/) 
 
 # 2. UI and UX Design Resources
 
