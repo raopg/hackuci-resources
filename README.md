@@ -1,6 +1,6 @@
 ## Table of Contents
 
-(i) [Software resources](#software-resources)
+0.  [Software resources](#software-resources)
 1.  [Coding Resources - How to learn xyz ](#1-coding-resources)
 
      - [Python](#11-python)
@@ -23,6 +23,8 @@
 3.  [Student Benefits and Packs](#3-student-benefits-and-packs)
 4.  [Master API directory](https://www.programmableweb.com/category/all/api)
 5.  [Credits](#credits)
+
+Special credit to [A-to-Z-Resources](https://github.com/dipakkr/A-to-Z-Resources-for-Students). The majority of content and ideas was inspired by this repository. Please check it out. Be sure to drop a star.
 
 # Software Resources
 Here is a list of software that is recommended to be downloaded before the hackathon.
@@ -569,9 +571,9 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 # Credits
 
-Master resources - https://github.com/dipakkr/A-to-Z-Resources-for-Students)
+A-to-Z Resources for Students - https://github.com/dipakkr/A-to-Z-Resources-for-Students
 
-Highly recommended checking the master Github repo, from which this repository was forked. The master resources are more general, whereas this one has been modified specifically for hackathons.
+Highly recommended checking this Github repository, from which this repository was forked. These resources are more general, whereas this one has been modified specifically for hackathons.
 
 [API reference](https://www.programmableweb.com/category/all/apis)
 
