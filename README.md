@@ -14,8 +14,10 @@
      - [MongoDB](#19-mongodb)
      - [Prolog](#110-prolog)
      - [C# Language](#111-c-language)
+     - [BlockChain](#112-blockchain)
+     - [VR/AR](#113-vr-ar)
 
-2.  [UX/UI Resources](#ui-and-ux-design-resources)
+2.  [UX/UI Resources](#2-ui-and-ux-design-resources)
 3.  [Student Benefits and Packs](#3-student-benefits-and-packs)
 4.  [Master API directory](https://www.programmableweb.com/category/all/apis)
 5.  [Credits](#credits)
@@ -101,7 +103,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 ## 1.1 Python
 
-> [**Browse this link for detailed information on Python**](Python/Python.md)
+> [**Browse this link for detailed information on Python**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/tree/master/Python)
 
 -  **Tutorials**
 
@@ -131,7 +133,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 ## 1.2 Machine Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/tree/master/ML)
 
 -  **Best GitHub Repositories to follow**
      - [Self Taught Path for Data Science](https://github.com/ossu/data-science)
@@ -160,7 +162,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 ## 1.3 Deep Learning
 
-> [**Browse this link for detailed information on Machine Learning and Deep Learning**](ML/ML.md)
+> [**Browse this link for detailed information on Machine Learning and Deep Learning**](https://github.com/dipakkr/A-to-Z-Resources-for-Students/tree/master/ML)
 
 
 -  **Best Online Books**
@@ -180,7 +182,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 ## 1.4 Android Development
 
- >  [Checkout the Full Resources on ANDROID](Android/Android.md) 
+ >  [Checkout the Full Resources on ANDROID](https://github.com/dipakkr/A-to-Z-Resources-for-Students/tree/master/Android) 
 
 -  [Free courses & Nanodegree | Udacity](https://udacity.com)
 -  [PluralSight - Android Developer Track](https://www.pluralsight.com/paths/android) 
@@ -285,7 +287,8 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 
 
 - **JavaScript Frameworks**
-
+    - **Node.JS**
+        - [Node.JS Resource list](https://github.com/dipakkr/A-to-Z-Resources-for-Students/tree/master/Node.JS)
     - **Angular**
         - [Angular Expo](https://angularexpo.com/) - Beautiful showcase of websites, applications and experiments using Angular
         - [Made With Angular](https://www.madewithangular.com/) - Gallery of inspiring websites using Angular/AngularJS
@@ -383,6 +386,27 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 - [DotNetPerls - C# Reference](https://www.dotnetperls.com/)
 - [The "Yellow Book": Introduction to C# Programming by Rob Miles](http://www.csharpcourse.com/)
 - [MSDN C# Fundamentals for Absolute Beginners](http://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners)
+
+## 1.12 BlockChain 
+- [BlockChain resource list](https://github.com/dipakkr/A-to-Z-Resources-for-Students/tree/master/BlockChain)
+
+## 1.13 VR/AR
+- [UX of VR](https://www.uxofvr.com/)
+- [Entering VR - A resource overview](http://www.enteringvr.net/overview/)
+- [Design principles](http://principles.adactio.com/)
+
+- **Prototyping**
+    - [Mozilla VR - Quick Prototypes](https://blog.mozvr.com/quick-vr-prototypes/)
+    - [VR Browing explorations](http://www.joshcarpenter.ca/vr-browsing-explorations/) by John Carpenter
+    - [Strategies for VR Prototyping](https://medium.com/@indiecontessa/strategies-for-vr-prototyping-810e0d3aa21d)
+    - [Google Daydream: Process](https://www.youtube.com/watch?time_continue=6&v=00vzW2-PvvE)
+- **Tutorials**
+    - [Unity Tutorials](https://unity3d.com/learn/tutorials?_ga=2.233555864.786381178.1494459907-1242834612.1494459869)
+    - [Unity User Manual](https://docs.unity3d.com/Manual/index.html?_ga=2.233555864.786381178.1494459907-1242834612.1494459869)
+    - [After-effects : Isometric animation](http://lesterbanks.com/2017/05/constrain-isometric-2d-ae/)
+    - [After-effects Tutorials](http://lesterbanks.com/category/after-effects-tutorials/?&a1=4)
+
+VR/AR Additional Resources - [link](https://medium.com/@morganmfritz/ar-vr-resources-learning-and-inspiration-f96f60ffd18c)
 
 
 # 2. UI and UX Design Resources
