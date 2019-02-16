@@ -19,9 +19,8 @@
 
 2.  [UX/UI Resources](#2-ui-and-ux-design-resources)
 3.  [Student Benefits and Packs](#3-student-benefits-and-packs)
-4.  [HackUCI Workshop Resources](https://docs.google.com/document/d/1-iE7WgLCERRo6xavmBZDLU2bKegb2CDvTFzyp7J4gKs/edit?usp=sharing)
-5.  [Master API directory](https://www.programmableweb.com/category/all/apis)
-6.  [Credits](#credits)
+4.  [Master API directory](https://www.programmableweb.com/category/all/apis)
+5.  [Credits](#credits)
 
 Special credit to [A-to-Z-Resources](https://github.com/dipakkr/A-to-Z-Resources-for-Students). The majority of content and ideas was inspired by this repository. Please check it out. Be sure to drop a star.
 
