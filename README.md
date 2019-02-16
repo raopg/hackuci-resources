@@ -15,7 +15,7 @@
      - [Prolog](#110-prolog)
      - [C# Language](#111-c-language)
      - [BlockChain](#112-blockchain)
-     - [VR/AR](#113-vr-ar)
+     - [VR/AR](#113-vr-and-ar)
 
 2.  [UX/UI Resources](#2-ui-and-ux-design-resources)
 3.  [Student Benefits and Packs](#3-student-benefits-and-packs)
@@ -391,7 +391,7 @@ PixelMator [Download](https://www.pixelmator.com/) | [Guide](https://www.pixelma
 ## 1.12 BlockChain 
 - [BlockChain resource list](https://github.com/dipakkr/A-to-Z-Resources-for-Students/tree/master/BlockChain)
 
-## 1.13 VR/AR
+## 1.13 VR and AR
 - [UX of VR](https://www.uxofvr.com/)
 - [Entering VR - A resource overview](http://www.enteringvr.net/overview/)
 - [Design principles](http://principles.adactio.com/)
